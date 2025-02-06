@@ -1,6 +1,6 @@
 To run this program correctly.
 
-1. Make sure you are in the root directory. /LSP_REPO_DELTA
+1. Make sure you are in the root directory. JavaProjectRoot
 
 2. First run command "javac src/org/howard/edu/lsp/assignment1/HelloWorld.java" to compile the java file inside the terminal.
 
