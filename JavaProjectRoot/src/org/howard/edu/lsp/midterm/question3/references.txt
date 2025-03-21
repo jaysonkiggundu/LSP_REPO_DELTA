@@ -1,2 +1,2 @@
-https://docs.oracle.com/javase/8/docs/api/
-https://www.geeksforgeeks.org/hashmap-in-java/
+1. https://docs.oracle.com/javase/8/docs/api/
+2. https://www.geeksforgeeks.org/hashmap-in-java/
