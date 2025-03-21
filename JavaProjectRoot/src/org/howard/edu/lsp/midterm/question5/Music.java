@@ -1,3 +1,5 @@
+package org.howard.edu.lsp.midterm.question5;
+
 /**
  * Represents a music track that implements the Streamable interface.
  * Provides common behaviors such as play, pause, stop, and specific behavior to add to a playlist.

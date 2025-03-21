@@ -1,3 +1,5 @@
+package org.howard.edu.lsp.midterm.question3;
+
 /**
  * The VotingMachineTest class is used to test the functionality of the VotingMachine class.
  * It simulates an election with multiple candidates, casting votes, and displaying the winner.

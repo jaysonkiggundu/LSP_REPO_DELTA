@@ -1,3 +1,5 @@
+package org.howard.edu.lsp.midterm.question5;
+
 /**
  * Driver class to demonstrate the usage of different media types (Music, Movie, Audiobook).
  * It shows how to test the common behaviors and unique behaviors of each media type.

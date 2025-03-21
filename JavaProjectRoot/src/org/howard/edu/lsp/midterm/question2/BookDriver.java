@@ -1,3 +1,5 @@
+package org.howard.edu.lsp.midterm.question2;
+
 /**
  * The BookDriver class is used to test the functionality of the Book class.
  * It creates instances of Book and demonstrates the equals and toString methods.

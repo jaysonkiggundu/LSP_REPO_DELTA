@@ -1,3 +1,5 @@
+package org.howard.edu.lsp.midterm.question5;
+
 /**
  * Interface to represent any type of streamable media content.
  * Provides common behaviors for all media types.
